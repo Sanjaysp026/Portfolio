@@ -3,14 +3,14 @@ export const site = {
   title: "Data & Statistical Analyst | Dashboard Developer | Website Developer | Research Consultant",
   tagline:
     "Transforming data into meaningful insights through Statistics, Analytics, and Business Intelligence.",
-  email: "sansanjaysp026@gmail.com",
-  phone: "+91 99402 89678",
+  email: "sanjaysp026@gmail.com",
+  phone: "+91 96777 49728",
   photo: "/profile.png",
   availability: "Open to new projects",
   socials: {
     linkedin: "https://linkedin.com/in/sanjaysp026",
     github: "https://github.com/sanjaysp026",
-    whatsapp: "https://wa.me/919940289678",
+    whatsapp: "https://wa.me/919677749728",
   },
 };
 
